@@ -1,0 +1,38 @@
+/* Project1.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.custom-input-group {
+  display: flex;
+  align-items: center;
+}
+
+.custom-input {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.custom-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.custom-checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.custom-checkbox input {
+  margin-right: 10px;
+}
