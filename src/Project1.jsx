@@ -41,7 +41,7 @@ function Project1() {
               type="button"
               onClick={passwordGenerate}
             >
-              Generate
+              Generate Password
             </button>
           </div>
           <div className="form-check form-switch mb-2">
